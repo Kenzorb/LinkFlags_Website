@@ -71,6 +71,7 @@ export default function LinkFlagsLandingPage() {
           <div className="hidden items-center gap-8 text-sm font-medium text-slate-600 md:flex">
             <a href="#features" className="transition hover:text-slate-950">Features</a>
             <a href="#how" className="transition hover:text-slate-950">How it works</a>
+            <a href="/blog" className="transition hover:text-slate-950">Blog</a>
             <a href="#faq" className="transition hover:text-slate-950">FAQ</a>
           </div>
 
